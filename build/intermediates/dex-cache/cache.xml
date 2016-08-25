@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jeffchen/Documents/Android/AP102Sample/CH04/GestureDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/jeffchen/Documents/Android/AP102Sample/CH04/GestureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.0_eb7065be15c4cd13928b629a364a6ff1cc45b578/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffchen/Documents/Android/AP102Sample/CH04/GestureDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/jeffchen/Documents/Android/AP102Sample/CH04/GestureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_bd74bf977ef7cc704f78315edc9944bad9e885eb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffchen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/jeffchen/Documents/Android/AP102Sample/CH04/GestureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.0_63b71fba86cec4d1067df0f63883b826bd1d81ba/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffchen/Documents/Android/AP102Sample/CH04/GestureDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="8f45a73d90ef72290a108e17322ac04a3dc74083">
+        <dex dex="/Users/jeffchen/Documents/Android/AP102Sample/CH04/GestureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_80082af3e7b06edc03f0c9c94c8d8aa062acdbf4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffchen/Documents/Android/AP102Sample/CH04/GestureDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="b0de80df7c36c7eeca73b77142321d13cc0abfda">
+        <dex dex="/Users/jeffchen/Documents/Android/AP102Sample/CH04/GestureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7f00a9637d20a3f6ea44fd9b2a127655f4cbc23b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jeffchen/Documents/Android/AP102Sample/CH04/GestureDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/jeffchen/Documents/Android/AP102Sample/CH04/GestureDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.0_b769c11700ab98cd6043f06cb06438071d2fb317/classes.dex" />
+    </item>
+
+</items>
